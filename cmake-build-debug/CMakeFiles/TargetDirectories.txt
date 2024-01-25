@@ -1,0 +1,4 @@
+/Users/bruceau/CLionProjects/TCPCoroutineServerClient/cmake-build-debug/CMakeFiles/tcp_server.dir
+/Users/bruceau/CLionProjects/TCPCoroutineServerClient/cmake-build-debug/CMakeFiles/tcp_client.dir
+/Users/bruceau/CLionProjects/TCPCoroutineServerClient/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/bruceau/CLionProjects/TCPCoroutineServerClient/cmake-build-debug/CMakeFiles/rebuild_cache.dir
